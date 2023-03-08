@@ -1,0 +1,21 @@
+/* color palette from <https://github.com/vuejs/theme> */
+  @import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Mukta:wght@200;300;400;500;600;700;800&family=Rampart+One&display=swap');
+
+:root {
+  --primary:#f8b72cbb;
+  --text-color:#0D0C15;
+  --secondary:#CA491D;
+  --background:#E0E0DF;
+  --accent:#7A7A85;
+
+  --font-logo:Climate;
+  --font-special:'Rampart One';
+  font-family: Mukta;
+
+}
+
+
+body{
+  margin: 0;
+  padding:0;
+}
